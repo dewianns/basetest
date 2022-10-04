@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="basetest"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.007">
+    <properties></properties>
+
+
+
+            <testcase
+                name="clickAdd"
+                time="0.696"
+                classname="tests.Test_Latihan2">
+            </testcase>
+            <testcase
+                name="inputData"
+                time="1.311"
+                classname="tests.Test_Latihan2">
+            </testcase>
+</testsuite>
